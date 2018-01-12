@@ -1,0 +1,11 @@
+#sonos-buttons{
+
+}
+
+.reversed_button {
+  color: #fff;
+  background-color: #000;
+  font-family: "HelveticaNeue-Light", sans-serif;
+  border: 2px solid #fff;
+  border-radius: 5px;
+}
